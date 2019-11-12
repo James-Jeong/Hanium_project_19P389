@@ -1,0 +1,69 @@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+20190826-160742 : TCP server implementation complete
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+[ Waiting for Clients ]
+[ Server received data : 28 76 -2.429804 1753 0.000000 ]
+[ Server send data to Database : 28 76 -2.429804 1753 0.000000 ]
+[ Database send data to Server : OK ]
+[ Server received data : 28 76 -2.429804 1751 0.000000 ]
+[ Server send data to Database : 28 76 -2.429804 1751 0.000000 ]
+[ Database send data to Server : OK ]
+[ Server received data : 28 76 -2.429804 1751 0.000000 ]
+[ Server send data to Database : 28 76 -2.429804 1751 0.000000 ]
+[ Database send data to Server : OK ]
+[ Server received data : 28 76 -2.429804 1751 0.000000 ]
+[ Server send data to Database : 28 76 -2.429804 1751 0.000000 ]
+[ Database send data to Server : OK ]
+[ Server received data : 28 76 -2.429804 1750 0.830078 ]
+[ Server send data to Database : 28 76 -2.429804 1750 0.830078 ]
+[ Database send data to Server : OK ]
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+20190826-160836 : TCP server(PID : 3054) is terminated
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+[ Waiting for Clients ]
+[ Waiting for Clients ]
+[ Server received data : 27 55 -2.421991  0.000000 ]
+{ Rasp connection error with Database! }
+[ Waiting for Clients ]
+[ Server received data : 28 54 -2.429804  3.320312 ]
+{ Rasp connection error with Database! }
+[ Waiting for Clients ]
+[ Server received data : 2147483647 2147483647 -2.421991  0.830078 ]
+{ Rasp connection error with Database! }
+[ Waiting for Clients ]
+[ Server received data : 28 53 -2.429804  8.300781 ]
+{ Rasp connection error with Database! }
+[ Waiting for Clients ]
+[ Server received data : 28 52 -2.429804  4.150391 ]
+{ Rasp connection error with Database! }
+[ Waiting for Clients ]
+[ Server received data : 28 51 -2.429804  3.320312 ]
+{ Rasp connection error with Database! }
+[ Waiting for Clients ]
+[ Server received data : 27 49 -2.429804  3.320312 ]
+{ Rasp connection error with Database! }
+[ Waiting for Clients ]
+[ Server received data : 27 48 -2.429804  0.000000 ]
+{ Rasp connection error with Database! }
+[ Waiting for Clients ]
+[ Server received data : 27 48 -2.429804 2000 0.830078 ]
+{ Rasp connection error with Database! }
+[ Waiting for Clients ]
+[ Server received data : 2147483647 2147483647 -2.429804 2000 0.000000 ]
+{ Rasp connection error with Database! }
+[ Waiting for Clients ]
+[ Server received data : 27 48 -2.429804 2000 0.830078 ]
+{ Rasp connection error with Database! }
+[ Waiting for Clients ]
+[ Server received data : 27 47 -2.429804 2000 0.000000 ]
+{ Rasp connection error with Database! }
+[ Waiting for Clients ]
+[ Server received data : 27 47 -2.429804 2000 0.000000 ]
+{ Rasp connection error with Database! }
+[ Waiting for Clients ]
+[ Server received data : 27 47 -2.429804 2000 0.830078 ]
+[ Server send data to Database : 27 47 -2.429804 2000 0.830078 ]
+[ Database send data to Server : OK ]
+[ Server received data : 27 48 -2.429804 2000 0.000000 ]
+[ Server send data to Database : 27 48 -2.429804 2000 0.000000 ]
+[ Database send data to Server : OK ]

@@ -1,0 +1,11 @@
+******************************
+20190919-122254 : server implementation complete
+******************************
+[ MariaDB connection Success ]
+[ MariaDB select database SUCCESS ]
+**********************
+[ 2019-09-19 12:22:54 ]
+[ Server is waiting for request from raspberry_pi host... ]
+[ Server is connected with 220.120.165.156 ]
+[ MariaDB USER Query SUCCESS ]
+[ MariaDB DEVICE Query SUCCESS ]
